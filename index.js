@@ -16,4 +16,4 @@ if (ladoA > 0 && ladoB > 0 && ladoC > 0) {
   } else {
     console.log("O triângulo é escaleno.");
   }
-}
+} else console.log("Triângulo inválido.");
